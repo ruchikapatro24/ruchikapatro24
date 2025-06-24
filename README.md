@@ -14,7 +14,7 @@ When I’m not coding or debugging something fun, I love brainstorming ideas, bi
     <h2 align="center" class="section-heading">🌐 Connect with Me</h2>
     <div align="center">
         <a href="https://www.linkedin.com/in/ruchika-patro-757b63258">
-            <img src="https://img.shields.io/badge/RuchikaPatro-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
         </a>
         <a href="https://github.com/ruchikapatro24" target="_blank">
             <img src="https://img.shields.io/badge/View%20on%20GitHub-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline"/>
