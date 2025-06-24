@@ -41,7 +41,7 @@ When I’m not coding or debugging something fun, I love brainstorming ideas, bi
   <h2>📊 My GitHub Stats</h2>
   <p>Check out my GitHub activity and contributions!</p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=ruchikapatro24&show_icons=true&hide_title=true&count_private=true&theme=dark&bg_color=1C2833" alt="Your GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=ruchikapatro24&show_icons=true&hide_title=true&count_private=true&theme=dark&bg_color=1C2833&cache_seconds=30" alt="Your GitHub Stats"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruchikapatro24&layout=compact&theme=dark&bg_color=1C2833" alt="Top Languages"/>
